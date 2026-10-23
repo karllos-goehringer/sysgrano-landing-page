@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="lg:col-span-2 max-w-sm">
             <Link href="#hero" className="inline-flex items-center gap-2 group mb-4">
               <Image
-                src="/assets/logo_sem_nome_4x4.png"
+                src="/assets/logos/sysgrano_logo.png"
                 alt="Logo do Sysgrano"
                 width={48}
                 height={48}

@@ -24,7 +24,7 @@ const slides: SlideData[] = [
     title: "Cadastro de Propriedade",
     description:
       "Cadastre sua propriedade no app para gerir talhões, safras e atividades. Fique de olho na previsão do tempo diretamente na página inicial.",
-    image: "/assets/appHome-3.jpeg",
+    image: "/assets/app-prints/appHome-3.jpeg",
   },
   {
     id: "s2",
@@ -32,7 +32,7 @@ const slides: SlideData[] = [
     title: "Cotação do Café",
     description:
       "Fique por dentro do preço do café em tempo real pelo tipo de café e por saca.",
-    image: "/assets/appHome-2.jpeg",
+    image: "/assets/app-prints/appHome-2.jpeg",
   },
   {
     id: "s3",
@@ -40,7 +40,7 @@ const slides: SlideData[] = [
     title: "Agende Atividades no Calendário",
     description:
       "Cadastre as atividades que planeja realizar em um talhão no calendário e salve todas as informações que precisa.",
-    image: "/assets/appEvento-1.jpeg",
+    image: "/assets/app-prints/appEvento-1.jpeg",
   },
   {
     id: "s4",
@@ -48,7 +48,7 @@ const slides: SlideData[] = [
     title: "Atividades a Realizar",
     description:
       "Encontre todas as atividades que devem ser feitas em determinado dia em um só lugar. Você receberá notificações para lembrar delas.",
-    image: "/assets/appEvento-2.jpeg",
+    image: "/assets/app-prints/appEvento-2.jpeg",
   },
   {
     id: "s5",
@@ -56,7 +56,7 @@ const slides: SlideData[] = [
     title: "Talhões",
     description:
       "Gerencie cada talhão de forma simples, rápida e prática.",
-    image: "/assets/appTalhao.jpeg",
+    image: "/assets/app-prints/appTalhao.jpeg",
   },
   {
     id: "s6",
@@ -64,7 +64,7 @@ const slides: SlideData[] = [
     title: "Controle Financeiro",
     description:
       "No aplicativo Sysgrano você pode organizar suas despesas por meio do Relatório Financeiro. Controle seus gastos como pagamento de funcionários e compra de insumos de forma rápida e acessível.",
-    image: "/assets/appFinanceiro-1.jpeg",
+    image: "/assets/app-prints/appFinanceiro-1.jpeg",
   },
   {
     id: "s7",
@@ -72,7 +72,7 @@ const slides: SlideData[] = [
     title: "Armazém Digital",
     description:
       "Armazene no app os insumos e o café que possui, juntamente com a quantidade de cada um. Registre compras e tenha controle sobre tudo o que possui fácilmente.",
-    image: "/assets/appArmazem-2.jpeg",
+    image: "/assets/app-prints/appArmazem-2.jpeg",
   },
   {
     id: "s8",
@@ -80,7 +80,7 @@ const slides: SlideData[] = [
     title: "Cadastro de Funcionários e Fornecedores",
     description:
       "Cadastre seus funcionários e fornecedores para facilitar pagamentos e manter resgistrado com quem comprou insumos e muito mais.",
-    image: "/assets/appFornecedor.jpeg",
+    image: "/assets/app-prints/appFornecedor.jpeg",
   },
 ];
 

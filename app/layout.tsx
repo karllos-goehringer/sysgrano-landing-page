@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   description:
     "Sysgrano: o app que ajuda o cafeicultor a gerenciar lavoura, safra e produtividade na palma da mão.",
   icons: {
-    icon: "/assets/logo_sem_nome_4x4.png",
+    icon: "/assets/logos/sysgrano_logo.png",
   },
 };
 

@@ -51,7 +51,7 @@ export default function Navbar() {
         {/* Brand Logo */}
         <Link href="#hero" className="flex items-center gap-2 group">
           <Image
-            src="/assets/logo_sem_nome_4x4.png"
+            src="/assets/logos/sysgrano_logo.png"
             alt="Logo do Sysgrano"
             width={40}
             height={40}
