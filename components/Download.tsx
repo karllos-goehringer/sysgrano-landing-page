@@ -4,7 +4,7 @@ export default function Download() {
   return (
     <section
       id="download"
-      className="py-24 sm:py-32 bg-[#9cc299] text-[#3E3B37] flex items-center justify-center"
+      className="py-24 sm:py-32 bg-[#fffdf9] text-[#3E3B37] flex items-center justify-center"
     >
       <div className="max-w-[1100px] mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#4B2E1B] leading-[1.2] mb-6">
@@ -16,7 +16,7 @@ export default function Download() {
         </h2>
 
         <p className="text-lg sm:text-xl text-[#3E3B37] leading-relaxed max-w-3xl mx-auto mb-10 opacity-95">
-          Não perca mais tempo com cadernos e planilhas. Baixe o Sysgrano agora, cadastre sua propriedade de forma rápida e simples e tenha acesso imediato aos inúmeros benefícios de nosso app.
+          Não perca mais tempo com cadernos e planilhas. Baixe a Sysgrano agora, cadastre sua propriedade de forma rápida e simples e tenha acesso imediato aos inúmeros benefícios do nosso app.
         </p>
 
         {/* Em breve nas lojas */}

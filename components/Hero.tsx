@@ -29,8 +29,9 @@ export default function Hero() {
               <span className="text-[#5c7753] block sm:inline">na palma da mão</span>
             </h1>
             <p className="text-lg sm:text-xl text-[#3E3B37] leading-relaxed mb-8 max-w-xl">
-              Com o Sysgrano você controla talhões, safra, custos e colheita em um só lugar,
-              com mais organização, menos papel e decisões muito mais seguras.
+              Com a Sysgrano você controla suas Propriedades, Talhões, Armazém,
+              Despesas, Vendas e Atividades do Ciclo da sua Safra em um só
+              lugar, de forma simples e intuitiva.
             </p>
 
             <div className="flex flex-wrap gap-4 justify-center lg:justify-start">

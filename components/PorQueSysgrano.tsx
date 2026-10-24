@@ -30,7 +30,7 @@ export default function PorQueSysgrano() {
           <div className="flex-1 flex flex-col items-start max-w-xl order-1 lg:order-2">
             <div className="inline-flex items-center gap-3 text-sm font-semibold text-[#7f3f3f] tracking-wide mb-4">
               <span className="w-7 h-[2px] bg-[#C97C7C] rounded-full inline-block" />
-              <span>Por que escolher o Sysgrano</span>
+              <span>Por que escolher a Sysgrano</span>
             </div>
 
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#4B2E1B] leading-tight mb-6">
@@ -39,7 +39,7 @@ export default function PorQueSysgrano() {
             </h2>
 
             <p className="text-base sm:text-lg text-[#3E3B37] leading-relaxed mb-8 opacity-90 text-justify sm:text-left">
-              O Sysgrano foi desenvolvido por estudantes de TSI do Ifes – Campus Santa Teresa, com apoio da Fapes e do Incaper, para auxiliar o cafeicultor na gestão da propriedade. O aplicativo permite registrar tarefas de campo, organizar um calendário de manejo com atividades como adubação, poda, pulverização, colheita e secagem, além de registrar compras de insumos e acompanhar os preços da saca de café. Assim, o produtor consegue planejar as atividades da lavoura, acompanhar sua rotina e identificar melhores momentos para comercializar sua produção, reunindo informações importantes em um só lugar.
+              A Sysgrano foi desenvolvida por estudantes de TSI do Ifes – Campus Santa Teresa, com apoio da Fapes e do Incaper, para auxiliar o cafeicultor na gestão da propriedade. O aplicativo permite registrar atividades de tratos culturais, colheitas, despolpagens, pré-secagens, secagens, pilagens e agendamentos de visitas técnicas, além de registrar vendas e despesas, gerenciar o armazém e acompanhar análises completas dos preços do café.
             </p>
 
             <Link
@@ -54,4 +54,3 @@ export default function PorQueSysgrano() {
     </section>
   );
 }
-

@@ -11,7 +11,7 @@ export default function Footer() {
             <Link href="#hero" className="inline-flex items-center gap-2 group mb-4">
               <Image
                 src="/assets/logos/sysgrano_logo.png"
-                alt="Logo do Sysgrano"
+                alt="Logo da Sysgrano"
                 width={48}
                 height={48}
                 className="h-12 w-auto object-contain transition-transform group-hover:scale-105"
@@ -44,7 +44,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link href="#porque" className="text-[#E1D3C1]/85 hover:text-white hover:underline transition-colors">
-                  Por que usar o Sysgrano?
+                  Por que usar a Sysgrano?
                 </Link>
               </li>
               <li>

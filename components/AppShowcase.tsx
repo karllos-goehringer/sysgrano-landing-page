@@ -192,7 +192,7 @@ export default function AppShowcase() {
         {/* Header */}
         <div className="text-center mb-10 sm:mb-14">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#4B2E1B] leading-tight">
-            Algumas Telas do Aplicativo
+            Telas da Sysgrano:
           </h2>
         </div>
 

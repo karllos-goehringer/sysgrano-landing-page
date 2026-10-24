@@ -19,7 +19,7 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   title: "Sysgrano | Gestão Inteligente para o Cafeicultor",
   description:
-    "Sysgrano: o app que ajuda o cafeicultor a gerenciar lavoura, safra e produtividade na palma da mão.",
+    "A Sysgrano é o app que ajuda o cafeicultor a gerenciar lavoura, safra e produtividade na palma da mão.",
   icons: {
     icon: "/assets/logos/sysgrano_logo.png",
   },

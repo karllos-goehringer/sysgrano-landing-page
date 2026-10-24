@@ -29,7 +29,7 @@ export default function Recursos() {
     {
       title: "Venda no momento certo",
       description:
-        "Com o acompanhamento sempre atualizado, o produtor identifica os melhores momentos para fazer a venda do seu café.",
+        "Acompanhe as análises da cotação de café que identifica os melhores momentos para você fazer a venda.",
       icon: (
         <svg
           className="w-7 h-7"
@@ -96,7 +96,7 @@ export default function Recursos() {
     {
       title: "Acompanhamento de tarefas",
       description:
-        "Saiba o que fazer no dia a dia: poda, adubação, colheita e secagem, tudo organizado em um só lugar.",
+        "Saiba o que fazer no dia a dia: poda, adubação, colheita, secagem e muito mais. Tome decisões estratégicas a partir de detalhes sobre o clima.",
       icon: (
         <svg
           className="w-7 h-7"
@@ -116,7 +116,7 @@ export default function Recursos() {
     {
       title: "Histórico de safras",
       description:
-        "Compare o rendimento de cada talhão a cada colheita para entender quais manejos trouxeram melhor resultado e ajustar o planejamento futuro.",
+        "Compare o rendimento de cada Talhão e Safra a cada colheita para entender quais manejos trouxeram melhor resultado e se planejar.",
       icon: (
         <svg
           className="w-7 h-7"
@@ -137,7 +137,7 @@ export default function Recursos() {
     {
       title: "Relatórios automáticos",
       description:
-        "Gere seus relatórios de forma rápida e precisa, a fim de mostrar os resultados obtidos em cada etapa.",
+        "Visualize relatórios e gráficos precisos, gerados em tempo real, que mostram os resultados obtidos em cada etapa.",
       icon: (
         <svg
           className="w-7 h-7"
@@ -165,17 +165,17 @@ export default function Recursos() {
         <div className="max-w-3xl mx-auto text-center mb-16 sm:mb-20">
           <div className="inline-flex items-center gap-3 text-sm font-semibold text-[#7f3f3f] tracking-wide mb-4">
             <span className="w-7 h-[2px] bg-[#C97C7C] rounded-full inline-block" />
-            <span>Principais Recursos do Sysgrano</span>
+            <span>Principais Recursos da Sysgrano</span>
             <span className="w-7 h-[2px] bg-[#C97C7C] rounded-full inline-block" />
           </div>
 
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-[#4B2E1B] leading-tight mb-5">
-            Solução completa e especialista para a{" "}
+            Solução completa para o ecossistema da{" "}
             <span className="text-[#5c7753]">cafeicultura</span>
           </h2>
 
           <p className="text-lg text-[#3E3B37] leading-relaxed max-w-2xl mx-auto">
-            Do plantio à venda, o Sysgrano reúne em um só lugar tudo o que o produtor precisa para decidir melhor e produzir com mais rentabilidade.
+            Do plantio à venda, a Sysgrano reúne em um só lugar tudo o que o produtor precisa para decidir melhor e produzir com mais rentabilidade.
           </p>
         </div>
 
@@ -194,4 +194,3 @@ export default function Recursos() {
     </section>
   );
 }
-

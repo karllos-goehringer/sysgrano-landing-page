@@ -39,7 +39,7 @@ export default function Navbar() {
   const navLinks = [
     { name: "Início", href: "#hero", icon: "home" },
     { name: "Principais Recursos", href: "#recursos", icon: "resources" },
-    { name: "Porquê a Sysgrano?", href: "#porque", icon: "about" },
+    { name: "Por que a Sysgrano?", href: "#porque", icon: "about" },
     { name: "Parcerias", href: "#parcerias", icon: "partners" },
     { name: "Download", href: "#download", icon: "download" },
     { name: "Manual de Uso", href: "#manual", icon: "manual" },
@@ -52,7 +52,7 @@ export default function Navbar() {
         <Link href="#hero" className="flex items-center gap-2 group">
           <Image
             src="/assets/logos/sysgrano_logo.png"
-            alt="Logo do Sysgrano"
+            alt="Logo da Sysgrano"
             width={40}
             height={40}
             className="h-10 w-auto object-contain transition-transform group-hover:scale-105"
