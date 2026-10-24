@@ -58,7 +58,12 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="#manual" className="text-[#E1D3C1]/85 hover:text-white hover:underline transition-colors">
+                <Link
+                  href="/assets/manual-de-uso/SysgranoApp.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-[#E1D3C1]/85 hover:text-white hover:underline transition-colors"
+                >
                   Manual de instruções
                 </Link>
               </li>

@@ -11,7 +11,9 @@ export default function Manual() {
           Acesse o manual do aplicativo Sysgrano para aprender a utilizá-lo, tirar dúvidas, e muito mais!
         </p>
         <Link
-          href="#"
+          href="/assets/manual-de-uso/SysgranoApp.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
           className="inline-flex items-center justify-center px-8 py-3.5 rounded-full bg-[#4B2E1B] text-[#E1D3C1] font-semibold text-base shadow-md hover:bg-[#3E3B37] hover:-translate-y-0.5 transition-all duration-200 focus:outline-none focus:ring-3 focus:ring-[#C97C7C]"
         >
           Acessar Manual de Instruções
@@ -20,4 +22,3 @@ export default function Manual() {
     </section>
   );
 }
-
